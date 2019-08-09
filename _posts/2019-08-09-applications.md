@@ -1,3 +1,11 @@
+---
+category: Recommendation
+title: 'Recommended Applications'
+type: 'LIST'
+
+layout: nil
+---
+
 # BGameiro's Recommended Applications
 
 This file has my recommendations on what packages to use.
@@ -13,6 +21,7 @@ This includes all software from free and open source to commercial, from simple 
 # Applications
 
 -- [BGameiro's Recommended Applications](#bgameiros-recommended-applications)
+- [BGameiro's Recommended Applications](#bgameiros-recommended-applications)
 - [Applications](#applications)
   - [Basic system utilities](#basic-system-utilities)
     - [Bootloader](#bootloader)
@@ -38,8 +47,8 @@ This includes all software from free and open source to commercial, from simple 
       - [Vector images](#vector-images)
       - [Bitmap images](#bitmap-images)
     - [Video editing](#video-editing)
-    - [Music creation and DJ software](#music-creation-and-DJ-software)
-      - [Digital Audio Workstation](#digital-Audio-Workstation)
+    - [Music creation and DJ software](#music-creation-and-dj-software)
+      - [Digital Audio Workstation](#digital-audio-workstation)
       - [DJ](#dj)
     - [3D](#3d)
       - [Animation](#animation)

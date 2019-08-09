@@ -1,3 +1,11 @@
+---
+category: Guide
+title: 'Installation guide'
+type: 'GUIDE'
+
+layout: nil
+---
+
 # BGameiro's Installation Guide of ArchLinux with my dotfiles
 
 This file exists because I always forget that my Boot/Efi partition can't be formatted with the EXT4 file system. I also forget how I configured things last time.
