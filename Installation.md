@@ -2,8 +2,6 @@
 category: Guide
 title: 'Installation guide'
 type: 'GUIDE'
-
-layout: nil
 ---
 
 # BGameiro's Installation Guide of ArchLinux with my dotfiles
@@ -21,7 +19,6 @@ So if you have any problem replicating my system, just made the change for Linux
 *   UEFI mode
 *   Have an internet connection
 *   Use FAT32 for the Boot partition and EXT4 for the others
-*   Don't want swap
 *   x86_64 system
 
 ***
@@ -252,7 +249,7 @@ pacstrap /mnt base base-devel
 
 > You can install more packages besides <code>base</code> and <code>base-devel</code>. For example, you can install the zen kernel with:
 > <pre>
-> pacstrap /mnt base base-devel linux-zen linux-zen-headers --ignore linux linux-headers
+> pacstrap /mnt base base-devel linux-zen linux-zen-headers linux-zen-docs --ignore linux linux-headers linux-docs
 > </pre>
 > For a list of available kernels please refer [here](https://wiki.archlinux.org/index.php/Kernel#Officially_supported_kernels).
 
