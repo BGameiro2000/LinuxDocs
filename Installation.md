@@ -252,10 +252,13 @@ pacstrap /mnt base base-devel
 > pacstrap /mnt base base-devel linux-zen linux-zen-headers linux-zen-docs --ignore linux linux-headers linux-docs
 > </pre>
 > For a list of available kernels please refer [here](https://wiki.archlinux.org/index.php/Kernel#Officially_supported_kernels).
+> I recommend installing <code>linux-zen</code> for desktop/laptop use (and gaming), <code>linux-hardened</code> for server, nas or anything that may be exposed to the network. For any other purpose, or if you don't want to mess with the kernel, just stick to the vanilla kernel as most differrences are unnoticeable.
 
 > **You only need to install the <code>base</code> package and <code>base-devel</code> if you're using AUR.**
 
 >You can install any official package with <code>pacstrap</code> but this [is not recommended](https://bbs.archlinux.org/viewtopic.php?id=181675).
+
+
 
 ### Basic configuration
 
