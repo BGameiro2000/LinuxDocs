@@ -65,14 +65,6 @@ So if you have any problem replicating my system, just made the change for Linux
 6. Install packages
 7. Set configurations according to my dotfiles
 
-##  Scripts, packages and automation
-
-1.  Git repo for your dotfiles
-    1.  Create
-    2.  Structure
-2.  Install script
-3.  Meta packages
-
 ***
 ***
 
@@ -443,3 +435,23 @@ initrd  <i>/intel-ucode.img</i>
 initrd  <i>/initramfs-linux.img</i>
 options root=LABEL=<i>YourRootLabel</i> rw <i>quiet loglevel=3 vga=current</i>
 </pre> 
+
+***
+
+##  Configuration
+
+### Create a new user
+####    Download your shell
+####    Create the user
+####    Set the password
+####    Create the Wheel group
+### Install Xorg
+### Install the graphics drivers
+### Install the display manager
+####    Install the LightDM
+####    Enable it
+####    Download and add numlockx
+####    Select the correct greeter
+### Install the Window Manager
+### Install packages
+### Set configurations according to my dotfiles
