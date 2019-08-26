@@ -347,7 +347,15 @@ More complex files can look, for example, like this:
 
 <pre>
 LANG=<i>en_US.UTF-8</i>
-
+LC_MESSAGES=<i>en_US.UTF-8</i>
+LANGUAGE=<i>en_US.UTF-8</i>
+LC_TIME=<i>pt_PT.UTF-8</i>
+LC_MEASUREMENT=<i>pt_PT.UTF-8</i>
+LC_ADDRESS=<i>pt_PT.UTF-8</i>
+LC_TELEPHONE=<i>pt_PT.UTF-8</i>
+LC_MONETARY=<i>pt_PT.UTF-8</i>
+LC_NUMERIC=<i>pt_PT.UTF-8</i>
+LC_PAPER=<i>pt_PT.UTF-8</i>
 </pre>
 
 To make your keyboard layout persistent edit <code>/etc/vconsole.conf</code> with:
