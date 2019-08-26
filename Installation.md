@@ -310,7 +310,19 @@ nano /etc/locale.gen
 and erasing the '#' before the desired locales. In my case it would look something like this:
 
 <pre>
-
+#aa_DJ.UTF-8 UTF-8
+#aa_DJ.UTF-8 UTF-8
+...
+#en_SG ISO-8859-1
+en_US.UTF-8 UTF-8
+#en_US. ISO-8859-1
+...
+#pt_BR ISO-8859-1
+pt_PT.UTF-8 UTF-8
+#pt_PT ISO-8859-1
+...
+#zu_ZA.UTF-8 UTF-8
+#zu_ZA ISO-8859-1
 </pre>
 
 Then run:
