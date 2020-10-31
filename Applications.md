@@ -76,11 +76,13 @@ After giving several display managers a try I ended up using [LightDM](https://w
 
 I recommend using [AwesomeWM](https://wiki.archlinux.org/index.php/Awesome), a modern, fast and capable Window Manager that can be configured with lua. For me it is the best option for productivity while looking good and modern. Here you have some [AwesomeWM rice](https://www.reddit.com/r/unixporn/search/?q=%5Bawesome%5D&restrict_sr=1&sort=top).
 
+Openbox is also pretty good.
+
 ##      Other system utilities
 
 ###     Shell
 
-*   [Fish](https://wiki.archlinux.org/index.php/Fish)
+*   [Zsh](https://wiki.archlinux.org/index.php/zsh)
 
 ###     Sync files
 
@@ -127,7 +129,8 @@ I recommend using [AwesomeWM](https://wiki.archlinux.org/index.php/Awesome), a m
 
 ###     Terminal
 
-*   [Urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
+*   ~[Urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)~
+*   [Alacritty](https://wiki.archlinux.org/index.php/Alacritty)
 
 ###     Code editors
 
@@ -138,7 +141,8 @@ I recommend using [AwesomeWM](https://wiki.archlinux.org/index.php/Awesome), a m
 
 ###     Office suite
 
-*   [LibreOffice](https://wiki.archlinux.org/index.php/LibreOffice)
+*   ~[LibreOffice](https://wiki.archlinux.org/index.php/LibreOffice)~
+*   OnlyOffice
 
 ###     Image creation and edition
 
